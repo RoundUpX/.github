@@ -4,6 +4,8 @@
 
 **RoundUpX** is a financial savings application designed to help users save effortlessly by rounding up spare change from their UPI transactions. The app transforms everyday spending into structured savings, enabling users to achieve their financial goals without altering their daily habits. RoundUpX consists of two repositories: **RoundUp-Backend** and **RoundUp-Frontend**, leveraging Go for backend development and Expo for the frontend.
 
+This app was created as a part of Inspirathon '25, an all-india 24-hour hackathon conducted as a part of [INIZIO](www.inzio.org.in). This project was among the top 5 projects out of 150+ teams and 500+ participants from all over India. More details can be found [here](https://github.com/RoundUpX/.github/blob/main/Inspirathon%20'25%20-%20Team%20RoundUp.pdf)
+
 ---
 
 ## Features
@@ -70,7 +72,7 @@
    ```
 4. Start the Expo development server:
    ```bash
-   npm start
+   npm expo start
    ```
 
 ---
